@@ -2,4 +2,9 @@
 
 Python code to display time, date, temperature, and CO2 levels.
 
-3D enclosure and parts list coming soon.
+Parts: 
+
+* Raspberry Pi Zero
+* Adafruit BME 280
+* Adafruit CCS811
+* 1" monochromeI2C OLED display
